@@ -4,8 +4,8 @@
 <h3 align="center">Tengo 21 años, soy de Argentina y empece a programar juegos moviles hace 3 años y actualmente me encuentro desarrollando un Roguelike para PC.</h3>
 <h3 align="center">- Mis juegos -</h3>
 <h3 align="center">- PC -</h3>
-<a href="https://store.steampowered.com/gfxproxy/betagfx/apps/2578060/header.jpg?t=1698626508" target="_blank">
-<p align="center"><img src="https://cdn.akamai.steamstatic.com/steam/apps/2578060/header_spanish.jpg" Color=white alt=Steam style="margin-bottom: 5px;"/></p>
+<a href="https://store.steampowered.com/app/2578060/Rogue_Souls/" target="_blank">
+<p align="center"><img src="https://store.steampowered.com/gfxproxy/betagfx/apps/2578060/header.jpg?t=1698626508" Color=white alt=Steam style="margin-bottom: 5px;"/></p>
 </a>
 <h3 align="center">- Móviles -</h3>
 <a href="https://play.google.com/store/search?q=pub%3ATeJonGames&c=apps&hl=es_AR&gl=US" target="_blank">
