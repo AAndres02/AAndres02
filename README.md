@@ -5,7 +5,7 @@
 <h3 align="center">- Mis juegos -</h3>
 <h3 align="center">- PC -</h3>
 <a href="https://store.steampowered.com/app/2578060/Rogue_Souls/" target="_blank">
-<p align="center"><img src="https://store.steampowered.com/gfxproxy/betagfx/apps/2578060/header.jpg?t=1698626508" Color=white alt=Steam style="margin-bottom: 5px;"/></p>
+<p align="center"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2578060/825313cc688f940206625f772a4fabcfd88a83f2/header.jpg?t=1748576462" Color=white alt=Steam style="margin-bottom: 5px;"/></p>
 </a>
 <h3 align="center">- Móviles -</h3>
 <a href="https://play.google.com/store/search?q=pub%3ATeJonGames&c=apps&hl=es_AR&gl=US" target="_blank">
