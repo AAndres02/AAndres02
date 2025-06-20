@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Andrés Lopez</h1>
-<h3 align="center">Soy un desarrollador de juegos independiente, en el lenguaje GML del motor GameMaker Studio 2, y actualmente estoy estudiando programación en la UTN.</h3> 
+<h3 align="center">Soy un desarrollador de juegos independiente, en el lenguaje GML del motor GameMaker Studio 2, y actualmente me encuentro trabajando como profesor en CodingGiants.</h3> 
 <h2 align="center">Sobre mi:</h2>
 <h3 align="center">Tengo 23 años, soy de Argentina y empecé a programar juegos móviles hace 4 años y actualmente me encuentro desarrollando un Roguelike para PC.</h3>
 <h3 align="center">- Mis juegos -</h3>
