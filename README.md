@@ -1,10 +1,13 @@
 <h1 align="center">Hola 👋, soy Andrés Lopez</h1>
 <h3 align="center">Soy un desarrollador de juegos independiente, en el lenguaje GML del motor GameMaker Studio 2, y actualmente me encuentro trabajando como profesor en CodingGiants.</h3> 
 <h2 align="center">Sobre mi:</h2>
-<h3 align="center">Tengo 23 años, soy de Argentina y empecé a programar juegos móviles hace 4 años y actualmente me encuentro desarrollando un Roguelike para PC.</h3>
+<h3 align="center">Tengo 24 años, soy de Argentina y empecé a programar juegos móviles hace 5 años y actualmente me encuentro desarrollando un Roguelike para PC.</h3>
 <h3 align="center">- Mis juegos -</h3>
 <h3 align="center">- PC -</h3>
-<a href="https://store.steampowered.com/app/2578060/Rogue_Souls/" target="_blank">
+<div style="text-align: center;">
+    <a href="https://store.steampowered.com/app/2578060/Rogue_Souls/" target="_blank">
+    </a>
+</div>
 <p align="center"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2578060/825313cc688f940206625f772a4fabcfd88a83f2/header.jpg?t=1748576462" Color=white alt=Steam style="margin-bottom: 5px;"/></p>
 </a>
 <h3 align="center">- Móviles -</h3>
